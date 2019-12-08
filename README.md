@@ -6,13 +6,13 @@ _This article was inspired by [Kotlin for Python Developers](https://kotlinlang.
 
 ---
 
-Scala is a daunting language.  Even more so if you've only worked with loosely-typed interpreted languages like Javascript.  If you're coming from Javascript Scala, particularly Scala written in the Functional Programming style, can look like a cat walked across the keyboard.  When I was learning I would joke with my peers who actually knew Scala about the obtuseness of all the keywords.  What the hell is a `final sealed abstract case case` anyway?
+Scala is a daunting language.  Even more so if you've only worked with loosely-typed interpreted languages like Javascript.  If you're coming from Javascript then Scala (particularly Scala written in the Functional Programming style) can look like a cat walked across the keyboard.  When I was learning I would joke with my peers who actually knew Scala about the obtuseness of all the keywords.  What the hell is a `final sealed abstract case case` anyway?
 
 This guide is my attempt to make the transition into Scala easier for everyone, but particularly aimed at those who are coming from a heavy Javascript background.  Even if you haven't worked heavily with Javascript, if you've primarily written in other popular loosely-typed interpreted languages such as Python or Ruby I think the same principals will apply.
 
 The goals of this guide are as follows:
 
-1. To explain why you might even consider Scala.  I hope by the end of this you will have teh answers to the questions: Why yet another language?  Why not use Java?  Why would I pick Scala over Kotlin?  Why would I use Scala when Typescript + Node.js is a thing?
+1. To explain why you might even consider Scala.  I hope by the end of this you will have the answers to the questions: Why yet another language?  Why not use Java?  Why would I pick Scala over Kotlin?  Why would I use Scala when Typescript + Node.js is a thing?
 2. To teach the fundamentals of Scala though the lens of the functional programing paradigm.
 3. To relate Javascript to Scala.  For example: "I know how to `reduce` an array in Javascript.  How do I do similar in Scala?"
 4. To teach some history of the language.  Some parts of Scala might seem strange at first, but if you know the history it will (hopefully) seem less strange.
