@@ -2,7 +2,7 @@
 
 _By [Jesse Atkinson](https://jsatk.us), Software Engineer at [Credit Karma](https://www.creditkarma.com/).  Published on MM, DD, YYYY.  This article is licensed for use under the [MIT License](https://github.com/jsatk/scala-for-javascript-developers/blob/master/LICENSE)._
 
-_This article was inspired by [Kotlin for Python Developers](https://kotlinlang.org/docs/tutorials/kotlin-for-py/introduction.html) written by [Aasmund Eldhuset](https://eldhuset.net) and [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) written by [Steve Losh](http://stevelosh.com).
+_This article was inspired by [Kotlin for Python Developers](https://kotlinlang.org/docs/tutorials/kotlin-for-py/introduction.html) written by [Aasmund Eldhuset](https://eldhuset.net) and [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) written by [Steve Losh](http://stevelosh.com)._
 
 ---
 
